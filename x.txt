@@ -1,6 +1,3 @@
 hello
 hi guys
-<<<<<<< HEAD
-=======
-bye
->>>>>>> parent of 460ea33 (fix:modified)
+hello!
